@@ -1,0 +1,23 @@
+" This is just an example textfile for HW#1 
+
+colorscheme slate 
+syntax on
+
+
+set number
+set mouse=a
+set showmatch
+set ruler
+
+syntax enable
+
+set tabstop=4
+set expandtab
+set shiftwidth=4
+set softtabstop=4
+
+set wrap
+set textwidth=79
+
+set autoindent
+set smartindent
