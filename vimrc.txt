@@ -1,4 +1,6 @@
 " This is just an example textfile for HW#1 
+" Adding this line to test third commit
+
 
 colorscheme slate 
 syntax on
